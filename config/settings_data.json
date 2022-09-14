@@ -1,0 +1,79 @@
+{
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "",
+          "social_icons_header": false,
+          "phone_number": "",
+          "top_bar_menu": "",
+          "show_cart": false,
+          "cart_icon": "cart",
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "logo_display_width": 150,
+          "logo": "shopify:\/\/shop_images\/Group.png",
+          "main_linklist": "main-menu",
+          "main_linklist2": "",
+          "vertical_menu": false,
+          "dropdown_click": false,
+          "search_enabled": false,
+          "fixed_header": true,
+          "logo_position": "left",
+          "logo_alignment": "center",
+          "menu_position": "inline",
+          "menu_alignment": "align_right"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "logo",
+            "settings": {
+              "text_align": "left",
+              "social_icons_footer": false
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "menu": "",
+              "social_icons_footer": false
+            }
+          },
+          "footer-2": {
+            "type": "link_list",
+            "settings": {
+              "menu": "",
+              "social_icons_footer": false
+            }
+          },
+          "footer-3": {
+            "type": "text",
+            "settings": {
+              "title": "Title",
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1",
+          "footer-2",
+          "footer-3"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": true,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true
+        }
+      }
+    },
+    "content_for_index": []
+  }
+}
